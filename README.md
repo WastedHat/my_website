@@ -1,5 +1,3 @@
-# my_website
+## My website
 
-some changes
-
-more chanbges
+updates made on masater on GitHub before rebase
